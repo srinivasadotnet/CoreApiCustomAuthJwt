@@ -1,0 +1,14 @@
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.deps.json
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.runtimeconfig.json
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.runtimeconfig.dev.json
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.dll
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.csprojAssemblyReference.cache
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorAssemblyInfo.cache
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorAssemblyInfo.cs
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.AssemblyInfo.cs
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.pdb
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.dll
+C:\Users\v-srinta\source\repos\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.pdb
